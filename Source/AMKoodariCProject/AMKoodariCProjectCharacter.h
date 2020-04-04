@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "AMKoodariCProjectCharacter.generated.h"
+#include "AMKoodariCProjectCharacter.generated.h" // needs to always be on the bottom
 
 class UInputComponent;
 
